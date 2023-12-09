@@ -7,5 +7,8 @@ int a = 10;
 int b = 5;
 
         System.out.println(a+b);
+
+        int z = 5;
+        System.out.println(a+b+z);
     }
 }
